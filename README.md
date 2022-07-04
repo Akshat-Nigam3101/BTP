@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshat-Nigam3101
-- 👀 I’m interested in java lang and app development
+- 👀 I’m interested in java language and app development
 - 🌱 I’m currently learning dsa and android development in java and kotlin
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me : mail: akshatnigam4@gmail.com 
