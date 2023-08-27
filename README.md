@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Akshat-Nigam3101
-- 👀 I’m interested in java language and app development
-- 🌱 I’m currently learning dsa and android development in java and kotlin
-- 💞️ I’m looking to collaborate on app development projects
-- 📫 How to reach me : mail: akshatnigam4@gmail.com 
+BTP CODES
+Application of ANN and machine learning algorithms for city-wide solid waste management.
+Clustering algorithm
+
 
 <!---
 Akshat-Nigam3101/Akshat-Nigam3101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
